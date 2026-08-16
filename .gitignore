@@ -1,0 +1,10 @@
+.env
+bot.log
+bot_data.json
+bot_data.json.tmp
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
